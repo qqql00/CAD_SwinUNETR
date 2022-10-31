@@ -1,0 +1,9 @@
+# __pycache
+__pycache__/
+# vscode
+.vscode/
+# dataset
+dataset/image/**
+dataset/label/**
+dataset_0.json
+BTCV/**

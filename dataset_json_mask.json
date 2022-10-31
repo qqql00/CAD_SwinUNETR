@@ -1,0 +1,412 @@
+{
+    "validation": [
+        {
+            "image": "label\\B01.nii.gz",
+            "label": "image\\B01.nii.gz"
+        },
+        {
+            "image": "label\\B04.nii.gz",
+            "label": "image\\B04.nii.gz"
+        },
+        {
+            "image": "label\\B05.nii.gz",
+            "label": "image\\B05.nii.gz"
+        },
+        {
+            "image": "label\\B07.nii.gz",
+            "label": "image\\B07.nii.gz"
+        },
+        {
+            "image": "label\\B08.nii.gz",
+            "label": "image\\B08.nii.gz"
+        },
+        {
+            "image": "label\\B09.nii.gz",
+            "label": "image\\B09.nii.gz"
+        },
+        {
+            "image": "label\\B10.nii.gz",
+            "label": "image\\B10.nii.gz"
+        },
+        {
+            "image": "label\\B11.nii.gz",
+            "label": "image\\B11.nii.gz"
+        },
+        {
+            "image": "label\\B12.nii.gz",
+            "label": "image\\B12.nii.gz"
+        },
+        {
+            "image": "label\\B13.nii.gz",
+            "label": "image\\B13.nii.gz"
+        },
+        {
+            "image": "label\\B14.nii.gz",
+            "label": "image\\B14.nii.gz"
+        },
+        {
+            "image": "label\\B16.nii.gz",
+            "label": "image\\B16.nii.gz"
+        },
+        {
+            "image": "label\\B17.nii.gz",
+            "label": "image\\B17.nii.gz"
+        },
+        {
+            "image": "label\\B18.nii.gz",
+            "label": "image\\B18.nii.gz"
+        },
+        {
+            "image": "label\\B19.nii.gz",
+            "label": "image\\B19.nii.gz"
+        },
+        {
+            "image": "label\\B20.nii.gz",
+            "label": "image\\B20.nii.gz"
+        },
+        {
+            "image": "label\\B21.nii.gz",
+            "label": "image\\B21.nii.gz"
+        },
+        {
+            "image": "label\\B24.nii.gz",
+            "label": "image\\B24.nii.gz"
+        },
+        {
+            "image": "label\\B25.nii.gz",
+            "label": "image\\B25.nii.gz"
+        },
+        {
+            "image": "label\\B26.nii.gz",
+            "label": "image\\B26.nii.gz"
+        },
+        {
+            "image": "label\\B27.nii.gz",
+            "label": "image\\B27.nii.gz"
+        },
+        {
+            "image": "label\\B28.nii.gz",
+            "label": "image\\B28.nii.gz"
+        },
+        {
+            "image": "label\\B29.nii.gz",
+            "label": "image\\B29.nii.gz"
+        },
+        {
+            "image": "label\\B30.nii.gz",
+            "label": "image\\B30.nii.gz"
+        },
+        {
+            "image": "label\\B32.nii.gz",
+            "label": "image\\B32.nii.gz"
+        },
+        {
+            "image": "label\\B33.nii.gz",
+            "label": "image\\B33.nii.gz"
+        },
+        {
+            "image": "label\\B34.nii.gz",
+            "label": "image\\B34.nii.gz"
+        },
+        {
+            "image": "label\\B35.nii.gz",
+            "label": "image\\B35.nii.gz"
+        },
+        {
+            "image": "label\\B37.nii.gz",
+            "label": "image\\B37.nii.gz"
+        },
+        {
+            "image": "label\\B38.nii.gz",
+            "label": "image\\B38.nii.gz"
+        },
+        {
+            "image": "label\\B39.nii.gz",
+            "label": "image\\B39.nii.gz"
+        },
+        {
+            "image": "label\\B40.nii.gz",
+            "label": "image\\B40.nii.gz"
+        },
+        {
+            "image": "label\\B41.nii.gz",
+            "label": "image\\B41.nii.gz"
+        },
+        {
+            "image": "label\\B43.nii.gz",
+            "label": "image\\B43.nii.gz"
+        },
+        {
+            "image": "label\\B44.nii.gz",
+            "label": "image\\B44.nii.gz"
+        },
+        {
+            "image": "label\\B45.nii.gz",
+            "label": "image\\B45.nii.gz"
+        },
+        {
+            "image": "label\\B46.nii.gz",
+            "label": "image\\B46.nii.gz"
+        },
+        {
+            "image": "label\\B48.nii.gz",
+            "label": "image\\B48.nii.gz"
+        },
+        {
+            "image": "label\\B49.nii.gz",
+            "label": "image\\B49.nii.gz"
+        },
+        {
+            "image": "label\\B50.nii.gz",
+            "label": "image\\B50.nii.gz"
+        },
+        {
+            "image": "label\\B51.nii.gz",
+            "label": "image\\B51.nii.gz"
+        },
+        {
+            "image": "label\\B52.nii.gz",
+            "label": "image\\B52.nii.gz"
+        },
+        {
+            "image": "label\\B53.nii.gz",
+            "label": "image\\B53.nii.gz"
+        },
+        {
+            "image": "label\\B54.nii.gz",
+            "label": "image\\B54.nii.gz"
+        },
+        {
+            "image": "label\\B55.nii.gz",
+            "label": "image\\B55.nii.gz"
+        },
+        {
+            "image": "label\\B56.nii.gz",
+            "label": "image\\B56.nii.gz"
+        },
+        {
+            "image": "label\\B58.nii.gz",
+            "label": "image\\B58.nii.gz"
+        },
+        {
+            "image": "label\\M01.nii.gz",
+            "label": "image\\M01.nii.gz"
+        },
+        {
+            "image": "label\\M02.nii.gz",
+            "label": "image\\M02.nii.gz"
+        },
+        {
+            "image": "label\\M04.nii.gz",
+            "label": "image\\M04.nii.gz"
+        },
+        {
+            "image": "label\\M06.nii.gz",
+            "label": "image\\M06.nii.gz"
+        },
+        {
+            "image": "label\\M07.nii.gz",
+            "label": "image\\M07.nii.gz"
+        },
+        {
+            "image": "label\\M08.nii.gz",
+            "label": "image\\M08.nii.gz"
+        },
+        {
+            "image": "label\\M10.nii.gz",
+            "label": "image\\M10.nii.gz"
+        },
+        {
+            "image": "label\\M11.nii.gz",
+            "label": "image\\M11.nii.gz"
+        },
+        {
+            "image": "label\\M12.nii.gz",
+            "label": "image\\M12.nii.gz"
+        },
+        {
+            "image": "label\\M13.nii.gz",
+            "label": "image\\M13.nii.gz"
+        },
+        {
+            "image": "label\\M14.nii.gz",
+            "label": "image\\M14.nii.gz"
+        },
+        {
+            "image": "label\\M15.nii.gz",
+            "label": "image\\M15.nii.gz"
+        },
+        {
+            "image": "label\\M16.nii.gz",
+            "label": "image\\M16.nii.gz"
+        },
+        {
+            "image": "label\\M17.nii.gz",
+            "label": "image\\M17.nii.gz"
+        },
+        {
+            "image": "label\\M19.nii.gz",
+            "label": "image\\M19.nii.gz"
+        },
+        {
+            "image": "label\\M21.nii.gz",
+            "label": "image\\M21.nii.gz"
+        },
+        {
+            "image": "label\\M22.nii.gz",
+            "label": "image\\M22.nii.gz"
+        },
+        {
+            "image": "label\\M25.nii.gz",
+            "label": "image\\M25.nii.gz"
+        },
+        {
+            "image": "label\\M26.nii.gz",
+            "label": "image\\M26.nii.gz"
+        },
+        {
+            "image": "label\\M27.nii.gz",
+            "label": "image\\M27.nii.gz"
+        },
+        {
+            "image": "label\\M28.nii.gz",
+            "label": "image\\M28.nii.gz"
+        },
+        {
+            "image": "label\\M29.nii.gz",
+            "label": "image\\M29.nii.gz"
+        },
+        {
+            "image": "label\\M31.nii.gz",
+            "label": "image\\M31.nii.gz"
+        },
+        {
+            "image": "label\\M32.nii.gz",
+            "label": "image\\M32.nii.gz"
+        },
+        {
+            "image": "label\\M33.nii.gz",
+            "label": "image\\M33.nii.gz"
+        },
+        {
+            "image": "label\\M35.nii.gz",
+            "label": "image\\M35.nii.gz"
+        },
+        {
+            "image": "label\\M37.nii.gz",
+            "label": "image\\M37.nii.gz"
+        },
+        {
+            "image": "label\\M38.nii.gz",
+            "label": "image\\M38.nii.gz"
+        },
+        {
+            "image": "label\\M39.nii.gz",
+            "label": "image\\M39.nii.gz"
+        },
+        {
+            "image": "label\\M40.nii.gz",
+            "label": "image\\M40.nii.gz"
+        },
+        {
+            "image": "label\\M41.nii.gz",
+            "label": "image\\M41.nii.gz"
+        },
+        {
+            "image": "label\\M42.nii.gz",
+            "label": "image\\M42.nii.gz"
+        },
+        {
+            "image": "label\\M44.nii.gz",
+            "label": "image\\M44.nii.gz"
+        },
+        {
+            "image": "label\\M45.nii.gz",
+            "label": "image\\M45.nii.gz"
+        },
+        {
+            "image": "label\\M46.nii.gz",
+            "label": "image\\M46.nii.gz"
+        },
+        {
+            "image": "label\\M47.nii.gz",
+            "label": "image\\M47.nii.gz"
+        },
+        {
+            "image": "label\\M48.nii.gz",
+            "label": "image\\M48.nii.gz"
+        },
+        {
+            "image": "label\\M49.nii.gz",
+            "label": "image\\M49.nii.gz"
+        },
+        {
+            "image": "label\\M50.nii.gz",
+            "label": "image\\M50.nii.gz"
+        },
+        {
+            "image": "label\\M51.nii.gz",
+            "label": "image\\M51.nii.gz"
+        },
+        {
+            "image": "label\\M52.nii.gz",
+            "label": "image\\M52.nii.gz"
+        },
+        {
+            "image": "label\\M53.nii.gz",
+            "label": "image\\M53.nii.gz"
+        },
+        {
+            "image": "label\\M54.nii.gz",
+            "label": "image\\M54.nii.gz"
+        },
+        {
+            "image": "label\\M55.nii.gz",
+            "label": "image\\M55.nii.gz"
+        },
+        {
+            "image": "label\\M56.nii.gz",
+            "label": "image\\M56.nii.gz"
+        },
+        {
+            "image": "label\\M57.nii.gz",
+            "label": "image\\M57.nii.gz"
+        },
+        {
+            "image": "label\\M58.nii.gz",
+            "label": "image\\M58.nii.gz"
+        },
+        {
+            "image": "label\\M59.nii.gz",
+            "label": "image\\M59.nii.gz"
+        },
+        {
+            "image": "label\\M60.nii.gz",
+            "label": "image\\M60.nii.gz"
+        },
+        {
+            "image": "label\\M61.nii.gz",
+            "label": "image\\M61.nii.gz"
+        },
+        {
+            "image": "label\\M64.nii.gz",
+            "label": "image\\M64.nii.gz"
+        },
+        {
+            "image": "label\\M65.nii.gz",
+            "label": "image\\M65.nii.gz"
+        },
+        {
+            "image": "label\\M66.nii.gz",
+            "label": "image\\M66.nii.gz"
+        },
+        {
+            "image": "label\\M67.nii.gz",
+            "label": "image\\M67.nii.gz"
+        },
+        {
+            "image": "label\\M68.nii.gz",
+            "label": "image\\M68.nii.gz"
+        }
+    ]
+}
